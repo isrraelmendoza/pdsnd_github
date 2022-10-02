@@ -130,6 +130,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
+#if loop to ensure that user is prompted for a restart
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
