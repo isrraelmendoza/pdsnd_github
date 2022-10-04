@@ -9,9 +9,11 @@ This project consisted in using Git and GitHub with a simulated workflow to refa
 [Check My Project Submission] (https://github.com/isrraelmendoza)
 
 What the project does?
+
 This project has the student using Git/GitHub adding documentation and refactoring to previous project python files.
 
 Why the project is useful?
+
 This project is useful as it guides the student on source control
 
 How users can get started with the project?
